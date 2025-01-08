@@ -29,3 +29,13 @@ se utilizar o docker para criar o banco no mongodb, rode no terminal:
  
 >[!NOTE]
 > Lembrando que não é necessário o mongo cria automaticamente um banco se não houver!
+
+
+### Criando arquivo .env
+
+Crie um arquivo chamado `.env` na raiz do projeto e crie uma porta e um uri pro mongo. Exemplo:
+
+```
+    PORT=3030
+    MONGODB_URI=mongodb://localhost:27017/db_fiap_fase2_nodejs_aula4
+```
