@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Diretórios de ambiente
+.env
+
+# Arquivos de log
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Diretórios de compilação
+dist/
+build/
+
+# Arquivos temporários de editores
+.vscode/
+.idea/
