@@ -27,3 +27,5 @@ se utilizar o docker para criar o banco no mongodb, rode no terminal:
     docker run -d -p 27017:27017 mongo:latest
 ```
  
+>[!NOTE]
+> Lembrando que não é necessário o mongo cria automaticamente um banco se não houver!
