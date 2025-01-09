@@ -39,3 +39,11 @@ Crie um arquivo chamado `.env` na raiz do projeto e crie uma porta e um uri pro 
     PORT=3030
     MONGODB_URI=mongodb://localhost:27017/db_fiap_fase2_nodejs_aula4
 ```
+
+### 🔍 Créditos
+
+Este jogo foi desenvolvido, por Leonardo Braga, como parte de um projeto educacional da Digital Innovation One.
+
+---
+
+Lembre-se de conferir o repositório [aqui](https://github.com/Vegildo/mvc-crud) e deixar uma ⭐️ se você gostou do projeto!
